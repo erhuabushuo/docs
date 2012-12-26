@@ -1,11 +1,11 @@
 =================================================
-Getting Started with the MongoDB JavaScript Shell
+MongoDB Javacript Shell 入门
 =================================================
 
 .. default-domain:: mongodb
 
 This tutorial provides an introduction to basic database operations
-using the :program:`mongo` shell. :program:`mongo` is a part of the
+本教程介绍了使用 :program:`mongo`. :program:`mongo` is a part of the
 standard MongoDB distribution and provides a full JavaScript
 environment with a complete access to the JavaScript language
 and all standard functions as well as a full database interface for
